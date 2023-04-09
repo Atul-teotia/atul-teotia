@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Atul-teotia/atulkumar/blob/b34087df88454ba6ed56dd49a6277f052c3edacb/1674550359969.jpg?raw=true)
+![MasterHead](https://github.com/Atul-teotia/atulkumar/blob/main/Profile%20LinkedIn%20Banner%202.png?raw=true)
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
